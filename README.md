@@ -88,3 +88,5 @@ Evaluation 부분도 해당 데이터셋의 Detectuion Evaluation Metrics를 참
 
 ---
 Mask R-CNN 설명 동영상 : https://drive.google.com/file/d/1OCw-UDgVtm1iXWWc144WrGiE3pl6CoBI/view?usp=sharing
+
+발표 자료 : https://drive.google.com/file/d/1-THbJzPxu_8T89Jzw9JhnEmUlReA5buZ/view?usp=sharing
