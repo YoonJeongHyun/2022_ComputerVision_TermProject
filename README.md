@@ -63,7 +63,7 @@ submittion은 pkl(Pickle) 객체를 이용해서 제출해주세요.
  ]
 
 (example)
-
+```
 [[{'rois': array([[ 476,  147,  650,  240],
           [ 507,  637,  674,  699],
           [ 504,  324,  660,  385],
@@ -156,8 +156,7 @@ submittion은 pkl(Pickle) 객체를 이용해서 제출해주세요.
           [ 663,  887,  679,  955],
           [ 739,  927,  776,  961]]),
 
-
-`
+```
 ---
 - 사용한 라이브러리
 -  -  https://github.com/cocodataset/cocoapi
