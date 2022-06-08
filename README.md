@@ -50,11 +50,9 @@ Evaluation 부분도 해당 데이터셋의 Detectuion Evaluation Metrics를 참
 
 ## Submission Format
 
-submittion은 pkl(Pickle) 객체를 이용해서 제출해주세요. 
+submittion은 .pkl(Pickle)로 객체를 저장해서 제출해주세요. 
 
-
-
-해당 Competition의 제출 양식은 다음과 같습니다. 
+해당 Competition의 제출 양식은 다음과 같습니다.    
 [
 {"rois"(bbox) : ~,
  "class_ids"(현 이미지에 존재하는 class_id들. class_id는 COCO 데이터셋 annotation을 참조할 것) : ~,
